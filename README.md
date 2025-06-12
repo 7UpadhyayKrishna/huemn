@@ -23,7 +23,7 @@ A robust REST and GraphQL API for library management built with Node.js, Express
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/7UpadhyayKrishna/huemn.git
 cd library-management-api
 ```
 
